@@ -44,7 +44,8 @@
    
 4.  #### DEPLOY IN HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+
+<a href="https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhai-Md-3"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
 --------
 5.  #### DEPLOY IN REPLIT
